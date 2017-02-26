@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">MeuPrimeiroApp</string>
+    <string name="botão_salvar">Salvar Arquivo</string>
 </resources>
