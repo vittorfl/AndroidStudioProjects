@@ -25,7 +25,17 @@ public class MainActivity extends AppCompatActivity {
         botaoIdade.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
+                String textoDigitado = caixaTexto.getText().toString();
 
+                if (textoDigitado.isEmpty()) {
+                    resultadoIdade.setText("Nenhum número digitado.");
+                } else {
+                    int valorDigitado = Integer.parseInt(textoDigitado);
+
+                    int valorResultadoFinal = valorDigitado * 7;
+
+                    resultadoIdade.setText("A idade do cachorro em anos humanos é: " + valorResultadoFinal + " anos.");
+                }
             }
         });
     }
