@@ -45,30 +45,58 @@
         android:textSize="22sp" />
 
     <EditText
+        android:id="@+id/precoAlcoolId"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:inputType="numberDecimal"
-        android:ems="10"
-        android:layout_marginTop="15dp"
-        android:id="@+id/editText"
-        android:layout_below="@+id/textView"
-        android:layout_alignLeft="@+id/textView"
-        android:layout_alignStart="@+id/textView"
-        android:layout_alignRight="@+id/textView"
         android:layout_alignEnd="@+id/textView"
-        android:background="#ffffff" />
+        android:layout_alignLeft="@+id/textView"
+        android:layout_alignRight="@+id/textView"
+        android:layout_alignStart="@+id/textView"
+        android:layout_below="@+id/textView"
+        android:layout_marginTop="15dp"
+        android:background="#ffffff"
+        android:ems="10"
+        android:inputType="numberDecimal"
+        android:padding="@dimen/padding_caixa_texto" />
 
     <EditText
+        android:id="@+id/precoGasolinaId"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:inputType="numberDecimal"
-        android:ems="10"
-        android:id="@+id/editText2"
-        android:layout_alignTop="@+id/editText"
+        android:layout_alignBottom="@+id/precoAlcoolId"
+        android:layout_alignEnd="@+id/textView2"
         android:layout_alignLeft="@+id/textView2"
-        android:layout_alignStart="@+id/textView2"
-        android:layout_alignBottom="@+id/editText"
-        android:background="#ffffff"
         android:layout_alignRight="@+id/textView2"
-        android:layout_alignEnd="@+id/textView2" />
+        android:layout_alignStart="@+id/textView2"
+        android:layout_alignTop="@+id/precoAlcoolId"
+        android:background="#ffffff"
+        android:ems="10"
+        android:inputType="numberDecimal"
+        android:padding="@dimen/padding_caixa_texto" />
+
+    <Button
+        android:id="@+id/botaoVerificarId"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignEnd="@+id/precoGasolinaId"
+        android:layout_alignLeft="@+id/precoAlcoolId"
+        android:layout_alignRight="@+id/precoGasolinaId"
+        android:layout_alignStart="@+id/precoAlcoolId"
+        android:layout_below="@+id/precoAlcoolId"
+        android:layout_marginTop="36dp"
+        android:text="@string/texto_botao_verificar" />
+
+    <TextView
+        android:id="@+id/textoResultadoId"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignEnd="@+id/botaoVerificarId"
+        android:layout_alignLeft="@+id/botaoVerificarId"
+        android:layout_alignRight="@+id/botaoVerificarId"
+        android:layout_alignStart="@+id/botaoVerificarId"
+        android:layout_below="@+id/botaoVerificarId"
+        android:layout_marginTop="29dp"
+        android:textColor="#415c00"
+        android:textSize="22sp" />
+
 </RelativeLayout>

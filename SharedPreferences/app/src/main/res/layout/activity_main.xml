@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#e7ec78"
+    tools:context="sharedpreferences.cursoandroid.com.sharedpreferences.MainActivity">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Qual o seu nome?"
+        android:textSize="22sp"
+        tools:layout_editor_absoluteX="105dp"
+        tools:layout_editor_absoluteY="16dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="22dp" />
+
+    <EditText
+        android:id="@+id/textoNomeId"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="textPersonName"
+        tools:layout_editor_absoluteX="85dp"
+        tools:layout_editor_absoluteY="58dp"
+        android:layout_below="@+id/textView"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="19dp" />
+
+    <Button
+        android:id="@+id/botaoSalvarId"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Salvar"
+        tools:layout_editor_absoluteX="147dp"
+        tools:layout_editor_absoluteY="134dp"
+        android:layout_below="@+id/textoNomeId"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="25dp" />
+
+    <TextView
+        android:id="@+id/textoExibicaoId"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Olá, usuário não definido"
+        android:textSize="18sp"
+        tools:layout_editor_absoluteX="94dp"
+        tools:layout_editor_absoluteY="202dp"
+        android:layout_marginTop="28dp"
+        android:layout_below="@+id/botaoSalvarId"
+        android:layout_centerHorizontal="true" />
+</RelativeLayout>

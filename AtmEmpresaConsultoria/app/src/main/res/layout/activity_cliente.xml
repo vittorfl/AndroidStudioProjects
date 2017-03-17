@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.widget.RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffffff"
+    tools:context="atmempresaconsultoria.cursoandroid.com.atmempresaconsultoria.ClienteActivity">
+
+    <ImageView
+        android:id="@+id/imageView4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="29dp"
+        android:layout_marginStart="29dp"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/detalhe_cliente"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="16dp" />
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/imageView4"
+        android:layout_marginLeft="21dp"
+        android:layout_marginStart="21dp"
+        android:layout_marginTop="34dp"
+        android:layout_toEndOf="@+id/imageView4"
+        android:layout_toRightOf="@+id/imageView4"
+        android:text="Nossos Clientes"
+        android:textColor="#b8c841"
+        android:textSize="22sp"
+        tools:layout_editor_absoluteX="101dp"
+        tools:layout_editor_absoluteY="51dp" />
+
+    <ImageView
+        android:id="@+id/imageView5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/imageView4"
+        android:layout_alignStart="@+id/imageView4"
+        android:layout_below="@+id/imageView4"
+        android:layout_marginLeft="19dp"
+        android:layout_marginStart="19dp"
+        android:layout_marginTop="28dp"
+        android:background="@drawable/cliente1" />
+
+    <TextView
+        android:id="@+id/textView8"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Empresa de desenvolvimento de sistemas"
+        android:textSize="14sp"
+        android:layout_below="@+id/imageView5"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginRight="31dp"
+        android:layout_marginEnd="31dp" />
+
+    <ImageView
+        android:id="@+id/imageView6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/imageView5"
+        android:layout_alignStart="@+id/imageView5"
+        android:layout_below="@+id/textView8"
+        android:layout_marginTop="18dp"
+        android:background="@drawable/cliente2" />
+
+    <TextView
+        android:id="@+id/textView9"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/textView8"
+        android:layout_alignStart="@+id/textView8"
+        android:layout_below="@+id/imageView6"
+        android:text="Empresa de auditoria"
+        android:textSize="14sp" />
+</android.widget.RelativeLayout>
