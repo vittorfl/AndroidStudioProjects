@@ -12,16 +12,16 @@ import android.widget.TextView;
 import java.util.ArrayList;
 
 import br.com.whatsappandroid.cursoandroid.whatsapp.R;
-import br.com.whatsappandroid.cursoandroid.whatsapp.model.Contato;
+import br.com.whatsappandroid.cursoandroid.whatsapp.model.Conversa;
 
-public class ContatoAdapter extends ArrayAdapter<Contato> {
+public class ConversaAdapter extends ArrayAdapter<Conversa> {
 
-    private ArrayList<Contato> contatos;
+    private ArrayList<Conversa> conversas;
     private Context context;
 
-    public ContatoAdapter(@NonNull Context c, @NonNull ArrayList<Contato> objects) {
+    public ConversaAdapter(@NonNull Context c, @NonNull ArrayList<Conversa> objects) {
         super(c, 0, objects);
-        this.contatos = objects;
+        this.conversas = objects;
         this.context = c;
     }
 
@@ -30,18 +30,18 @@ public class ContatoAdapter extends ArrayAdapter<Contato> {
     public View getView(int position, @Nullable View convertView, @NonNull ViewGroup parent) {
         View view = null;
 
-        if(contatos != null) {
+        if(conversas != null) {
             LayoutInflater inflater = (LayoutInflater) context.getSystemService(context.LAYOUT_INFLATER_SERVICE);
 
-            view = inflater.inflate(R.layout.lista_contato, parent, false);
+            view = inflater.inflate(R.layout.lista_conversa, parent, false);
 
-            TextView nomeContato = (TextView) view.findViewById(R.id.tv_nome);
-            TextView emailContato = (TextView) view.findViewById(R.id.tv_email);
+            TextView nome = (TextView) view.findViewById(R.id.tv_nome);
+            TextView mensagem = (TextView) view.findViewById(R.id.tv_mensagem);
 
-            Contato contato = contatos.get(position);
+            Conversa conversa = conversas.get(position);
 
-            nomeContato.setText(contato.getNome());
-            emailContato.setText(contato.getEmail());
+            nome.setText(conversa.getNome());
+            mensagem.setText(conversa.getMensagem());
         }
 
         return view;
