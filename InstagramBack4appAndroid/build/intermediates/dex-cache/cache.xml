@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="H:\Users\Vittor_2\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="H:\Projects\AndroidStudioProjects\InstagramBack4appAndroid\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_49f35d04f858318bc1a2ea6d2b9ce2a627bd89c5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="H:\Projects\AndroidStudioProjects\InstagramBack4appAndroid\ParseStarterProject\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="H:\Projects\AndroidStudioProjects\InstagramBack4appAndroid\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_6df922a9aa31a37ce37f6a1a5bd2992bf2f59595\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Vittor_2\.gradle\caches\modules-2\files-2.1\com.parse\parse-android\1.13.0\58a7d54b6a4f28be11f0cecec93097eddf473e6f\parse-android-1.13.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="58a7d54b6a4f28be11f0cecec93097eddf473e6f">
+        <dex dex="H:\Projects\AndroidStudioProjects\InstagramBack4appAndroid\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\parse-android-1.13.0_af1dea2f6af9b92cdc449fe89449e3af9b0002aa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="H:\Projects\AndroidStudioProjects\InstagramBack4appAndroid\ParseStarterProject\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ea693e4db367466f83d375dcacb8e9cf4a0e9c27">
+        <dex dex="H:\Projects\AndroidStudioProjects\InstagramBack4appAndroid\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_6b4b667b27f83bd823627a087db3d3ee486196e1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="H:\Users\Vittor_2\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="H:\Projects\AndroidStudioProjects\InstagramBack4appAndroid\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-22.2.0_07156601e1ca9ff52b0e3d3a5d1c36df7e43da13\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Vittor_2\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="H:\Projects\AndroidStudioProjects\InstagramBack4appAndroid\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\bolts-tasks-1.4.0_597d869526d051ef7fa61d889293d6ed6819b351\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Vittor_2\.android\build-cache\9fb9caac923bc33476d191b8ba8c1ffe64242801\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="H:\Projects\AndroidStudioProjects\InstagramBack4appAndroid\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_20b8a44bebfa2929d0f28a8e52dba17dd7911a98\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Vittor_2\.android\build-cache\d4483fa6cfadd26ca638ed28bcad303facfc6bf2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="H:\Projects\AndroidStudioProjects\InstagramBack4appAndroid\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fcffbe6498c7affeb63dd4fd6769ecfb32ad868d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Vittor_2\.android\build-cache\8771557fbdef467bdc0b8a1a18f3a7f5b0cfd475\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="H:\Projects\AndroidStudioProjects\InstagramBack4appAndroid\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e83312f35d00aa310bf5d9379feddbb3eab020ca\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Vittor_2\.android\build-cache\8771557fbdef467bdc0b8a1a18f3a7f5b0cfd475\output\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="H:\Projects\AndroidStudioProjects\InstagramBack4appAndroid\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-22.2.0_e139c2537bb23f2c2432b0692ebb9284fb4fb278\classes.dex" />
+    </item>
+
+</items>

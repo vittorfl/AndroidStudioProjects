@@ -1,0 +1,25 @@
+#Sun Jul 23 15:59:48 BRT 2017
+renamed.7=classes.dex
+renamed.6=classes4.dex
+renamed.5=classes6.dex
+renamed.4=classes2.dex
+renamed.3=classes3.dex
+renamed.2=classes5.dex
+renamed.1=classes7.dex
+renamed.0=classes8.dex
+base.7=H\:\\Projects\\AndroidStudioProjects\\InstagramBack4appAndroid\\ParseStarterProject\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\bolts-tasks-1.4.0_597d869526d051ef7fa61d889293d6ed6819b351
+base.6=H\:\\Projects\\AndroidStudioProjects\\InstagramBack4appAndroid\\ParseStarterProject\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_fcffbe6498c7affeb63dd4fd6769ecfb32ad868d
+base.5=H\:\\Projects\\AndroidStudioProjects\\InstagramBack4appAndroid\\ParseStarterProject\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-22.2.0_e139c2537bb23f2c2432b0692ebb9284fb4fb278
+base.4=H\:\\Projects\\AndroidStudioProjects\\InstagramBack4appAndroid\\ParseStarterProject\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_20b8a44bebfa2929d0f28a8e52dba17dd7911a98
+base.3=H\:\\Projects\\AndroidStudioProjects\\InstagramBack4appAndroid\\ParseStarterProject\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_e83312f35d00aa310bf5d9379feddbb3eab020ca
+base.2=H\:\\Projects\\AndroidStudioProjects\\InstagramBack4appAndroid\\ParseStarterProject\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\constraint-layout-solver-1.0.2_49f35d04f858318bc1a2ea6d2b9ce2a627bd89c5
+base.1=H\:\\Projects\\AndroidStudioProjects\\InstagramBack4appAndroid\\ParseStarterProject\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\parse-android-1.13.0_af1dea2f6af9b92cdc449fe89449e3af9b0002aa
+base.0=H\:\\Projects\\AndroidStudioProjects\\InstagramBack4appAndroid\\ParseStarterProject\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-22.2.0_07156601e1ca9ff52b0e3d3a5d1c36df7e43da13
+file.7=H\:\\Projects\\AndroidStudioProjects\\InstagramBack4appAndroid\\ParseStarterProject\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\bolts-tasks-1.4.0_597d869526d051ef7fa61d889293d6ed6819b351\\classes.dex
+file.6=H\:\\Projects\\AndroidStudioProjects\\InstagramBack4appAndroid\\ParseStarterProject\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_fcffbe6498c7affeb63dd4fd6769ecfb32ad868d\\classes.dex
+file.5=H\:\\Projects\\AndroidStudioProjects\\InstagramBack4appAndroid\\ParseStarterProject\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-22.2.0_e139c2537bb23f2c2432b0692ebb9284fb4fb278\\classes.dex
+file.4=H\:\\Projects\\AndroidStudioProjects\\InstagramBack4appAndroid\\ParseStarterProject\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_20b8a44bebfa2929d0f28a8e52dba17dd7911a98\\classes.dex
+file.3=H\:\\Projects\\AndroidStudioProjects\\InstagramBack4appAndroid\\ParseStarterProject\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_e83312f35d00aa310bf5d9379feddbb3eab020ca\\classes.dex
+file.2=H\:\\Projects\\AndroidStudioProjects\\InstagramBack4appAndroid\\ParseStarterProject\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\constraint-layout-solver-1.0.2_49f35d04f858318bc1a2ea6d2b9ce2a627bd89c5\\classes.dex
+file.1=H\:\\Projects\\AndroidStudioProjects\\InstagramBack4appAndroid\\ParseStarterProject\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\parse-android-1.13.0_af1dea2f6af9b92cdc449fe89449e3af9b0002aa\\classes.dex
+file.0=H\:\\Projects\\AndroidStudioProjects\\InstagramBack4appAndroid\\ParseStarterProject\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-22.2.0_07156601e1ca9ff52b0e3d3a5d1c36df7e43da13\\classes.dex
